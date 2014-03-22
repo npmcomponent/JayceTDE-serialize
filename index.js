@@ -1,6 +1,6 @@
 'use strict';
 
-var value = require('value')
+var value = require('component-value')
   , submittableRegExp = /^(?:input|select|textarea|keygen)/i
   , ignoredTypesRegExp = /^(?:submit|button|image|reset|file)$/i
 ;

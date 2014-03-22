@@ -1,0 +1,11 @@
+{
+  "name": "jaycetde-serialize",
+  "description": "Serialize forms into JSON object",
+  "version": "0.0.2",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "component-value": "git://github.com/npmcomponent/component-value.git"
+  },
+  "license": "MIT"
+}
